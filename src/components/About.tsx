@@ -14,7 +14,8 @@ const About: React.FC = () => {
         <Box display='flex' justifyContent='center' p={1}>
           <Typography variant='body1' align='left'>
             Takadaです。<br />
-            プログラミング学習中。<br />
+            2020年8月から独学でプログラミング学習を開始。<br />
+            課題を解決するために適切な技術を導入できるようになる事が目標です。<br />
             このページはTypeScriptとReactで作成しています。
           </Typography>
         </Box>

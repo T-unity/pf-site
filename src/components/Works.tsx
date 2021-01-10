@@ -36,35 +36,35 @@ const Works: React.FC = () => {
           <List className={classes.root}>
             
             <ListItem>
-              <ListItemLink href='https://qiita.com/kazama1209/items/868c09393007cc9b234f'>
+              <ListItemLink href='https://circle-work.net'>
                 <ListItemAvatar>
                   <Avatar>
                     <FolderIcon />
                   </Avatar>
                 </ListItemAvatar>
-                <ListItemText primary='Work1' secondary='Work1です。' />
+                <ListItemText primary='ポートフォリオ' secondary='Ruby2.7,Rails6.0で作成したポートフォリオサイトです。' />
               </ListItemLink>
             </ListItem>
 
             <ListItem>
-              <ListItemLink href='#'>
+              <ListItemLink href='https://github.com/T-unity/manga-asi'>
                 <ListItemAvatar>
                   <Avatar>
                     <FolderIcon />
                   </Avatar>
                 </ListItemAvatar>
-                <ListItemText primary='Work2' secondary='Work2です。' />
+                <ListItemText primary='ポートフォリオサイトのGithub' secondary='上記ポートフォリオサイトのコードです。' />
               </ListItemLink>
             </ListItem>
 
             <ListItem>
-              <ListItemLink href='#'>
+              <ListItemLink href='https://github.com/T-unity/-algorithm'>
                 <ListItemAvatar>
                   <Avatar>
                     <FolderIcon />
                   </Avatar>
                 </ListItemAvatar>
-                <ListItemText primary='Work3' secondary='Work3です。' />
+                <ListItemText primary='Rubyの学習記録' secondary='フレームワークを用いてちょっとしたアプリを作れるようにはなってきましたが、コーディング力が弱いと感じているので毎日チェリー本を読みながら地味に勉強を進めています。' />
               </ListItemLink>
             </ListItem>
 
