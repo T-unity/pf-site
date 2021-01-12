@@ -68,6 +68,17 @@ const Works: React.FC = () => {
               </ListItemLink>
             </ListItem>
 
+            <ListItem>
+              <ListItemLink href='https://qiita.com/Takda_'>
+                <ListItemAvatar>
+                  <Avatar>
+                    <FolderIcon />
+                  </Avatar>
+                </ListItemAvatar>
+                <ListItemText primary='Qiita' secondary='開発を円滑に進めるためのちょっとしたtips等を投稿する事が多いです。' />
+              </ListItemLink>
+            </ListItem>
+
           </List>
         </Box>
       </Box>
